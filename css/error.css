@@ -1,0 +1,22 @@
+img {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+* {
+    background-color: rgb(228, 60, 80);
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+a {
+    color: rgb(214, 204, 204);
+    text-decoration: none;
+    margin-top: 300px;
+}
+
+a:hover {
+    color: rgb(2, 2, 2);
+    transition: all 0.4s;
+}
